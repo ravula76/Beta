@@ -1,4 +1,4 @@
 variable "region" {
-  description = "region"
+  description = "region1"
 }
 
